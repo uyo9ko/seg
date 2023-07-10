@@ -1,0 +1,10 @@
+einops
+torch
+pydantic
+numpy
+Pillow
+nibabel
+pandas
+SimpleITK
+pydicom
+opencv-python
